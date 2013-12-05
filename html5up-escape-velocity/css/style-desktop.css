@@ -319,7 +319,7 @@
 	{
 		position: absolute;
 		height: 5em;
-		top: 50%;
+		top: 10%;
 		left: 0;
 		width: 100%;
 		text-align: center;
@@ -472,7 +472,7 @@
 		
 		#intro .style2
 		{
-			font-size: 2.75em;
+			font-size: 2.0em;
 			letter-spacing: 0.075em;
 			line-height: 1.35em;
 			padding: 1em 0 1em 0;
